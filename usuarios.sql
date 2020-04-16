@@ -12,8 +12,8 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 -- Extraindo dados da tabela `usuarios`
 --
 
-INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`) VALUES
-(1, 'Julia', 'julia@senac.com', '202cb962ac59075b964b07152d234b70');
+INSERT INTO `usuarios` (`id`, `email`, `senha`) VALUES
+(1, 'julia@senac.com', '123');
 
 
 -- --------------------------------------------------------
